@@ -36,6 +36,10 @@ This repository contains my personal portfolio.
 1. Implemented CI/CD pipeline using AWS CodePipeline.
 2. Blogged about the integration of AWS SES, SQS, Lambda and DynamoDB to make dynamic contact form in personal portfolio.
 
+## Oct 24
+
+1. Worked on making the demonstration video of the Project.
+
 ## Integration of AWS Services in the project
 
 ![Integration of AWS Services](./img/blog1.png)
