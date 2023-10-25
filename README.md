@@ -42,7 +42,7 @@ This repository contains my personal portfolio.
 
 ## Integration of AWS Services in the project
 
-![Integration of AWS Services](./img/blog1.png)
+![Integration of AWS Services](./img/architecture.png)
 The diagram above shows the integration of AWS Services to store the contact form data into the DynamoDB and send email notifcation.
 
 ![Integration of AWS Services](./img/cicd.png)
